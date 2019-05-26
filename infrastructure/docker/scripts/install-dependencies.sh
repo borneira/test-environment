@@ -25,4 +25,4 @@ else
     echo [-] Error installing dependencies
 fi
 # Clone Alastria test environment
-cd .. && git clone --depth 1 https://github.com/alastria/test-environment
+cd .. && git clone --depth 1 https://github.com/borneira/test-environment
